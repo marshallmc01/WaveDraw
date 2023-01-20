@@ -19,3 +19,19 @@ After that I'll get to the audio (which I may mess around with earlier rather th
 
 I'm new to building actual projects so right now I'm just leaving an exe file and the source code. In the future I'll make it more professional but for now i'm just having fun.
 
+# Credits
+
+I used a fair amount of resources to develop the regressions, so I've listed what I found helpful below.
+&nbsp;  
+&nbsp;  
+
+Bez regression in C: https://github.com/erich666/GraphicsGems/blob/master/gems/FitCurves.c  
+Constrained least squares (polyfit with fixed endpoints): http://www.seas.ucla.edu/~vandenbe/133A/lectures/cls.pdf  
+Matrix solution for cubic bezier regression: https://www.jimherold.com/computer-science/best-fit-bezier-curve   
+Visualization of newton raphson reparamaterization: https://stackoverflow.com/questions/42315048/bezier-curve-fitting-with-known-end-points/42325165#42325165  
+Polynomial regression maths: https://muthu.co/maths-behind-polynomial-regression/  
+
+
+
+
+
